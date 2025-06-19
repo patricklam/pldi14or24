@@ -1,0 +1,93 @@
+<ul id="pldi2024">
+<li>The Future of Fast Code: Giving Hardware What It Wants</li>
+<li>Bit Blasting Probabilistic Programs</li>
+<li>Compiling Probabilistic Programs for Variable Elimination with Information Flow</li>
+<li>Equivalence and Similarity Refutation for Probabilistic Programs</li>
+<li>GenSQL: A Probabilistic Programming System for Querying Generative Models of Database Tables</li>
+<li>Probabilistic Programming with Programmable Variational Inference</li>
+<li>Compilation of Qubit Circuits to Optimized Qutrit Circuits</li>
+<li>Qubit Recycling Revisited</li>
+<li>The T-Complexity Costs of Error Correction for Control Flow in Quantum Computation</li>
+<li>Compiling Conditional Quantum Gates without Using Helper Qubits</li>
+<li>An Algebraic Language for Specifying Quantum Networks</li>
+<li>Daedalus: Safer Document Parsing</li>
+<li>SpEQ: Translation of Sparse Codes using Equivalences</li>
+<li>Compiling with Abstract Interpretation</li>
+<li>Don’t Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation</li>
+<li>Static Posterior Inference of Bayesian Probabilistic Programming via Polynomial Solving</li>
+<li>Consolidating Smart Contracts with Behavioral Contracts</li>
+<li>NetBlocks: Staging Layouts for High-Performance Custom Host Network Stacks</li>
+<li>KATch: A Fast Symbolic Verifier for NetKAT</li>
+<li>Towards Trustworthy Automated Program Verifiers: Formally Validating Translations into an Intermediate Verification Language</li>
+<li>Verified Extraction from Coq to OCaml</li>
+<li>Verification under Intel-x86 with Persistency</li>
+<li>RefinedRust: A Type System for High-Assurance Verification of Rust Programs</li>
+<li>Hyperblock Scheduling for Verified High-Level Synthesis</li>
+<li>Space-Efficient Polymorphic Gradual Typing, Mostly Parametric</li>
+<li>Associated Effects</li>
+<li>Decidable Subtyping of Existential Types for Julia</li>
+<li>Numerical Fuzz: A Type System for Rounding Error Analysis</li>
+<li>Stream Types</li>
+<li>A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption</li>
+<li>Quantitative Robustness for Vulnerability Assessment</li>
+<li>Quest Complete: The Holy Grail of Gradual Security</li>
+<li>Foundational Integration Verification of a Cryptographic Server</li>
+<li>Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior</li>
+<li>Compatible Branch Coverage Driven Symbolic Execution for Efficient Bug FindingRemote</li>
+<li>Diffy: Data-Driven Bug Finding for Configurations</li>
+<li>Boosting Compiler Testing by Injecting Real-World Code</li>
+<li>A Verified Compiler for a Functional Tensor Language</li>
+<li>Compilation of Modular and General Sparse Workspaces</li>
+<li>Descend: A Safe GPU Systems Programming Language</li>
+<li>AI-Assisted Programming Today and Tomorrow</li>
+<li>The Functional Essence of Imperative Binary Search Trees</li>
+<li>Quiver: Guided Abductive Inference of Separation Logic Specifications in Coq</li>
+<li>Maximum Consensus Floating Point Solutions for Infeasible Low-Dimensional Linear Programs with Convex Hull as the Intermediate Representation</li>
+<li>Live Verification in an Interactive Proof Assistant</li>
+<li>Predictable Verification using Intrinsic Definitions</li>
+<li>Linear Matching of JavaScript Regular Expressions</li>
+<li>RichWasm: Bringing Safe, Fine-Grained, Shared-Memory Interoperability Down to WebAssembly</li>
+<li>Bringing the WebAssembly Standard up to Speed with SpecTec</li>
+<li>Optimistic Stack Allocation and Dynamic Heapification for Managed Runtimes</li>
+<li>Concurrent Immediate Reference Counting</li>
+<li>Equivalence by Canonicalization for Synthesis-Backed Refactoring</li>
+<li>PL4XGL: A Programming Language Approach to Explainable Graph Learning</li>
+<li>Syntactic Code Search with Sequence-to-Tree Matching</li>
+<li>V-Star: Learning Visibly Pushdown Grammars from Program Inputs</li>
+<li>Hashing Modulo Context-Sensitive Alpha-Equivalence</li>
+<li>Mechanised Hypersafety Proofs about Structured Data</li>
+<li>Hyper Hoare Logic: (Dis-)Proving Program Hyperproperties</li>
+<li>A HAT Trick: Automatically Verifying Representation Invariants using Symbolic Finite Automata</li>
+<li>SuperStack: Superoptimization of Stack-Bytecode via Greedy, Constraint-Based, and SAT Techniques</li>
+<li>Inductive Approach to Spacer</li>
+<li>SMT Theory Arbitrage: Approximating Unbounded Constraints using Bounded Theories</li>
+<li>Much Still to Do in Compiler Verification (A Perspective from the CakeML Project)</li>
+<li>From Batch to Stream: Automatic Generation of Online Algorithms</li>
+<li>Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis</li>
+<li>Recursive Program Synthesis using ParamorphismsRemote</li>
+<li>Reward-Guided Synthesis of Intelligent Agents with Control StructuresRemote</li>
+<li>A Lightweight Polyglot Code Transformation Language</li>
+<li>SPORE: Combining Symmetry and Partial Order Reduction</li>
+<li>IsoPredict: Dynamic Predictive Analysis for Detecting Unserializable Behaviors in Weakly Isolated Data Store Applications</li>
+<li>LiDO: Linearizable Byzantine Distributed Objects with Refinement-Based Liveness ProofsRemote</li>
+<li>A Family of Fast and Memory Efficient Lock- and Wait-Free Reclamation</li>
+<li>Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs</li>
+<li>Floating-Point TVPI Abstract DomainRemote</li>
+<li>Reducing Static Analysis Unsoundness with Approximate Interpretation</li>
+<li>Falcon: A Scalable Analytical Cache Model</li>
+<li>Falcon: A Fused Approach to Path-Sensitive Sparse Data Dependence Analysis</li>
+<li>A Proof Recipe for Linearizability in Relaxed Memory Separation Logic</li>
+<li>Compositional Semantics for Shared-Variable Concurrency</li>
+<li>Input-Relational Verification of Deep Neural Networks</li>
+<li>Automated Verification of Fundamental Algebraic Laws</li>
+<li>Allo: A Programming Model for Composable Accelerator Design</li>
+<li>VESTA: Power Modeling with Language Runtime Events</li>
+<li>Modular Hardware Design of Pipelined Circuits with Hazards</li>
+<li>Jacdac: Service-Based Prototyping of Embedded Systems</li>
+<li>Wavefront Threading Enables Effective High-Level Synthesis</li>
+<li>Scaling Type-Based Points-to Analysis with Saturation</li>
+<li>Program Analysis for Adaptive Data Analysis</li>
+<li>Robust Resource Bounds with Static Analysis and Bayesian Inference</li>
+<li>Context-Free Language Reachability via Skewed Tabulation</li>
+<li>Static Analysis for Checking the Disambiguation Robustness of Regular Expressions</li>
+</ul>

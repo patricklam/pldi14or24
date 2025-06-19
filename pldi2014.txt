@@ -1,0 +1,54 @@
+<ul id="pldi2014">
+<li>Adaptive, Efficient Parallel Execution of Parallel Programs</li>
+<li>Doppio: Breaking the Browser Language Barrier</li>
+<li>Expressing and Verifying Probabilistic Assertions</li>
+<li>Modular Control-Flow Integrity</li>
+<li>Don't Sweat the Small Stuff: Formal Verification of C Code Without the Pain</li>
+<li>Test-Driven Synthesis</li>
+<li>Compiler-Assisted Detection of Transient Memory Errors</li>
+<li>FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps</li>
+<li>Dynamic Enforcement of Determinism in a Parallel Scripting Language</li>
+<li>End-to-End Verification of Stack-Space Bounds for C Programs</li>
+<li>Stochastic Optimization of Floating Point Programs using Tunable Precision</li>
+<li>Slicing Probabilistic Programs</li>
+<li>A Theory of Changes for Higher-Order Languages — Incrementalizing λ-Calculi by Static Differentiation</li>
+<li>Program Consolidation</li>
+<li>Globally Precise-restartable Execution of Parallel Programs</li>
+<li>First-class Runtime Generation of High-performance Types using Exotypes</li>
+<li>Getting F-Bounded Polymorphism Back into Shape</li>
+<li>Fast: a Transducer-Based Language for Tree Manipulation</li>
+<li>SCCharts: Sequentially Constructive Statecharts for Safety-Critical Applications</li>
+<li>Race Detection for Android Applications</li>
+<li>Taming the Parallel Effect Zoo: Extensible Deterministic Parallelism with Lvish</li>
+<li>Optimal Inference of Fields in Row-Polymorphic Records</li>
+<li>Persistent Pointer Information</li>
+<li>Maximal Sound Predictive Race Detection With Control Flow Abstraction</li>
+<li>Surgical Precision JIT Compilers</li>
+<li>VeriCon: Towards Verifying Controller Programs in Software-Defined Networks</li>
+<li>Selective Context-Sensitivity Guided by Impact Pre-Analysis</li>
+<li>Lifting Reduction Semantics through Syntactic Sugar</li>
+<li>Introspective Analysis: Context-Sensitivity, Across the Board</li>
+<li>Code Completion with Statistical Language Models</li>
+<li>Commutativity Race Detection</li>
+<li>DoubleChecker: Efficient Sound and Precise Atomicity Checking</li>
+<li>Adapton: Composable, Demand-Driven Incremental Computation</li>
+<li>Natural Proofs for Data-structure Manipulation in C</li>
+<li>Verification Modulo Versions: Towards Usable Verification</li>
+<li>On Abstraction Refinement for Program Analyses in Datalog</li>
+<li>Hybrid Top-down and Bottom-up Interprocedural Analysis</li>
+<li>Compositional Solution Space Quantification for Probabilistic Software Analysis</li>
+<li>Race Detection for Event-Driven Mobile Applications</li>
+<li>A Model Counter For Constraints Over Unbounded Strings</li>
+<li>Improving JavaScript Performance Through Predictable Type Specialization</li>
+<li>FlashExtract: A Framework for Data Extraction by Examples</li>
+<li>Compiler Validation via Equivalence Modulo Inputs</li>
+<li>Test Driven Repair of Data Races in Structured Parallel Programs</li>
+<li>Accurate Application Progress Analysis for Large-Scale Parallel Debugging</li>
+<li>Automatic Runtime Error Repair and Containment via Recovery Shepherding</li>
+<li>Automating Formal Proofs for Reactive Systems</li>
+<li>Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures</li>
+<li>A Lightweight Symbolic Virtual Machine for Solver-Aided Host Languages</li>
+<li>Resource Limits for Haskell</li>
+<li>A Framework for Enhancing Data Reuse via Associative Reordering</li>
+<li>Tracelet-Based Code Search in Executables</li>
+</ul>
